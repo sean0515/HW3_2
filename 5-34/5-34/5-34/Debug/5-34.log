@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+D:\c_code\HW3-2\5-34\source\main.c(10,27): warning C4013:  'recursive' 未定義; 假設 extern 傳回整數
+D:\c_code\HW3-2\5-34\source\main.c(16,1): warning C4142:  'recursive': 良性的類型重複定義
+  5-34.vcxproj -> D:\c_code\HW3-2\5-34\5-34\5-34\..\..\temp\debug\5-34.exe
